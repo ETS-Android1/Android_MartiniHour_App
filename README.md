@@ -1,5 +1,5 @@
 # Martini Hour 
-###### Martini Hour is an android application that helps you to choose between different martini cocktails.Every cocktail page contains info and recipe of the cocktail with the option of adding a specific cocktail to your favourite list.
+###### Martini Hour is an android application that helps you to choose between different martini cocktails. Every cocktail page contains info and recipe of the cocktail with the option of adding a specific cocktail to your favourite list. SQLite has been implemented as a local database.
 ###### The app requires minimum Android 5.1 Lollipop and is responsive to any screen
 
 ### Splash Screen
